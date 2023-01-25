@@ -2,7 +2,7 @@ const askQuestions = require('./lib/askQuestions');
 
 function init() {
   console.log(
-    "----------------------------------------------------------------------------------\nWelcome to this README.md file generator for your amazing app! Let's get started!\n----------------------------------------------------------------------------------"
+    "-----------------------------------------------------------\nWelcome to the README.md file generator. Let's get started!\n-----------------------------------------------------------"
   );
 
   askQuestions();
