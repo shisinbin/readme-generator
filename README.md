@@ -8,7 +8,7 @@
 
 ## Description
 
-A simple command-line application that helps a user to generate a basic README.md file for their GitHub repository. The app uses Node.js and the Inquirer package to prompt the user for various information before using it to generate a README.md file.
+A simple command-line application that helps a user to generate a basic README.md file for their GitHub project. The app uses Node.js and the Inquirer package to prompt the user for various information before using it to generate a README.md file.
 
 This app was developed to improve my knowledge and understanding of using Node.js - its modular functionality and the built-in library `fs` to help read from and write to files - as well as how other packages that provide some cool piece of functionality can be easily imported and used.
 
